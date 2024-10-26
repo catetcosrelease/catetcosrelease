@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @catetcosrelease
 - 👀 I’m interested in open source virtualization and home automations
 - 🌱 I’m currently learning how to become rich with open source
-- 👨🏻‍💻 Working for one of the biggest managed services rovider. I'm committed in datacenters and infrastructure services.
+- 👨🏻‍💻 Working for one of the biggest managed services provider. I'm committed in datacenters and infrastructure services.
 - ⚡ Fun fact: hated Linux until a classmate let me try. I had to try it again someting to let me convince myself it would be my passion.
 - 🚀 Worked on several type of project. My focus is not on coding but on let third party code fit you better.
 - 🏎️ Strong on C, C++, C#, Ruby, Perl, Go
