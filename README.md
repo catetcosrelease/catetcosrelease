@@ -6,7 +6,7 @@
 - 🚀 Worked on several type of project. My focus is not on coding but on let third party code fit you better.
 - 🏎️ Strong on C, C++, C#, Ruby, Perl, Go
 - 🚜 Need to improve my self in Java (sorry, I hate it since highschool) and Python
-- 🛜 Interested in netowrking and net-security
+- 🛜 Interested in networking and net-security
 
 <!---
 catetcosrelease/catetcosrelease is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
